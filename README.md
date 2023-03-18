@@ -1,2 +1,2 @@
-# c_wiki_repractice
+# C Book Practice 
 # C Programming simple practice Read Me Project
